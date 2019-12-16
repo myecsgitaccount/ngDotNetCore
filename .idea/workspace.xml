@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66e95aef-cd1e-41e4-9107-3e155763b897" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/login/login.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/login/login.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/login/login.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/login/login.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/nav-menu/nav-menu.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/nav-menu/nav-menu.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/nav-menu/nav-menu.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/nav-menu/nav-menu.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/products/products.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/products/products.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/products/products.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/products/products.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/register/register.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/register/register.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/register/register.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/src/app/register/register.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NG_Auth/ClientApp" beforeDir="false" afterPath="$PROJECT_DIR$/NG_Auth/ClientApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NG_Auth/ClientApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NG_Auth/ClientApp/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NG_Auth/ClientApp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NG_Auth/ClientApp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/NG_Auth/ClientApp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NG_Auth/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NG_Auth/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NG_Auth/bin/Debug/netcoreapp2.2/NG_Auth.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NG_Auth/bin/Debug/netcoreapp2.2/NG_Auth.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NG_Auth/bin/Debug/netcoreapp2.2/NG_Auth.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NG_Auth/bin/Debug/netcoreapp2.2/NG_Auth.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NG_Auth/obj/Debug/netcoreapp2.2/NG_Auth.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NG_Auth/obj/Debug/netcoreapp2.2/NG_Auth.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NG_Auth/obj/Debug/netcoreapp2.2/NG_Auth.dll" beforeDir="false" afterPath="$PROJECT_DIR$/NG_Auth/obj/Debug/netcoreapp2.2/NG_Auth.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NG_Auth/obj/Debug/netcoreapp2.2/NG_Auth.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NG_Auth/obj/Debug/netcoreapp2.2/NG_Auth.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/NG_Auth/ClientApp" />
+  </component>
+  <component name="ProjectId" id="1V46G3UXMgISydCV3IWNQuMrTZB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="C:\NETCORE\NG_Auth\NG_Auth\ClientApp\node_modules\typescript\lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66e95aef-cd1e-41e4-9107-3e155763b897" name="Default Changelist" comment="" />
+      <created>1576499920635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576499920635</updated>
+      <workItem from="1576499923428" duration="3062000" />
+      <workItem from="1576511339451" duration="3006000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
